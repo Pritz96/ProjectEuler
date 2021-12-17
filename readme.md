@@ -1,5 +1,5 @@
-My solutions to Project Euler questions written in Go
+Some of my solutions to Project Euler questions written in Go
 
-https://projecteuler.net/ 
+Project Euler Problems: https://projecteuler.net/ 
 
-To run a solution for *questionx* cd into the directory of questionx and run *go run questionx.go*
+To run a solution for question**xx** `cd` into the directory of question**xx** and run `go run questionxx.go`
